@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.pytest_cache/
+
+# Output stego files (generated, not source)
+*_stego.png
+*_stego.bmp
+*_stego.txt
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
